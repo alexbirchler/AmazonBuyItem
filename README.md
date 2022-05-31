@@ -1,6 +1,6 @@
 # Web Test Automation 
 
-The code is made in Python, using chromeDriver in Pycharm.
+The code is made in Python, Selenium in Pycharm and run in Chrome
 
 ###Versions:
 Python3.9
@@ -27,7 +27,14 @@ _Below is an example of how you can run this testcase._
    ```sh
    python main.py
    ```
-
+Testcase step by step:
+1. Enter the URL
+2. search an item
+3. select the first one
+4. copy the title in order to compare is the same that we have in cart
+5. add to cart
+6. proced to buy
+7. check the item is the same we clicked in step 3
 
 
 <!-- CONTACT -->

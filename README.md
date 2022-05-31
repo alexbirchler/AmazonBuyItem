@@ -22,7 +22,7 @@ _Below is an example of how you can run this testcase._
    ```sh
    git clone https://github.com/alexbirchler/AmazonBuyItem.git
    ```
-2. Go to the correct folder in your PC
+2. Go to the correct folder in your PC where is allocated the code
 
 3. Run the testcase
    ```sh
